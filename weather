@@ -1,4 +1,4 @@
-<a class="weatherwidget-io" href="https://forecast7.com/da/55d6412d48/hvidovre/" data-label_1="HVIDOVRE" data-label_2="WEATHER" data-font="Monaco" data-icons="Climacons Animated" data-days="5" data-theme="original" data-basecolor="#ecefe5" data-accent="#e2e5dc" data-textcolor="#807e71" data-highcolor="#807e71" data-lowcolor="#807e71" data-suncolor="#fcde9b" data-mooncolor="#ffff" data-cloudcolor="#807e71" data-cloudfill="#807e71" data-raincolor="#b9d6ff" >HVIDOVRE WEATHER</a>
+<a class="weatherwidget-io" href="https://weather.com/weather/today/l/55.68,12.57?par=google&temp=c" data-label_1="KØBENHAVN" data-label_2="WEATHER" data-theme="original" >NEW YORK WEATHER</a>
 <script>
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
 </script>
